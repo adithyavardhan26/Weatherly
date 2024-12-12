@@ -1,0 +1,15 @@
+{
+    "short_name": "Weatherly",
+    "name": "Weatherly Dashboard",
+    "icons": [
+        {
+            "src": "/images/2682849_cloud_cloudy_day_forecast_sun_icon.png",
+            "sizes": "64x64 32x32 24x24 16x16",
+            "type": "image/x-icon"
+        }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#1E90FF",
+    "background_color": "#f0f0f0"
+}
